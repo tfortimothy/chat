@@ -1,3 +1,3 @@
 Socket IO App
 =============
-Practice
+Learning how to use Socket IO
